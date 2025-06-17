@@ -1,69 +1,63 @@
-![Banner](./983ebdc8-e196-45dd-b81a-ff3366a868f0.png)
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naufalammarmiftah/naufalammarmiftah/main/banner.png" width="100%" alt="Welcome Banner">
+</p>
 
-<h1 align="center">Hi there, I'm Naufal Ammar Miftah 👋</h1>
+<h1 align="center">Hi there, I'm Naufal Ammar! 👋</h1>
 
 <p align="center">
-  <em>Network Engineer (Data Center Fabric) | Software-Defined Network Specialist | Tech Enthusiast 🌟</em>
+  🚀 Senior Network Engineer | 🧠 Specializing in Data Center Fabric & SDN<br>
+  Passionate about automating networks and building scalable infrastructure!
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 📈 Currently working as a **Senior Network Engineer** focusing on **SDN (Software Defined Network)** and **Data Center Fabric** infrastructure.
-- 🚀 Love automation, network design, and network programming!
-- 🌐 Passionate about Open Source, especially related to SDN technologies and monitoring tools.
+### 💼 About Me
+- 🌐 Working as **Network Engineer - Data Center Fabric (SDN)**
+- 🧩 Enthusiast of software-defined everything (SDE, SDN, SD-WAN)
+- ⚡ Constant learner in cloud-native networking & observability
+- 🎓 Sharing my journey through code and collaboration
 
 ---
 
-## 🪖 Tech Stack
+### 🚀 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-Svelte-%23f1413d?style=for-the-badge&logo=svelte&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cisco-%23049fd9?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=typescript,svelte,php,python,docker,git,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=terraform,aws,azure,grafana,ansible,prometheus" />
 </p>
 
 ---
 
-## 🔢 GitHub Stats
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naufalammarmiftah&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naufalammarmiftah&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalammarmiftah&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naufalammarmiftah&show_icons=true&theme=github_dark&hide_title=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalammarmiftah&theme=highcontrast" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naufalammarmiftah&theme=react-dark" />
 </p>
 
 ---
 
-## 📽️ Spotify - Recently Played
+### 🕹️ GitHub Snake Game (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naufalammarmiftah/naufalammarmiftah/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31neoxxxxx)](https://open.spotify.com/user/31neoxxxxx)
-
----
-
-## 🌈 Holopin Badges
-
-[![@abnvlrf's Holopin board](https://holopin.me/abnvlrf)](https://holopin.io/@abnvlrf)
+🔧 *Enable by GitHub Actions using [`Platane/snk`](https://github.com/Platane/snk)*
 
 ---
 
-## 🎮 GitHub Snake Game
-
-![snake gif](https://github.com/naufalammarmiftah/naufalammarmiftah/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📅 Daily.dev Profile
-
-<a href="https://app.daily.dev/kimmypow">
-  <img src="./ca6aad64-645b-4ca0-85f9-300bbfb4a915.png" width="300" alt="pow's Dev Card"/>
-</a>
+### 🧠 Holopin Badges
+<p align="center">
+  <img src="https://holopin.me/naufalammarmiftah" alt="@naufalammarmiftah's Holopin board" width="300"/>
+</p>
 
 ---
 
-## 📢 Let’s Connect
+### 🎧 Spotify — Now Playing
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naufalammar)
-[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufalammarmiftah@gmail.com)
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fdfmujh53fgjkl4swh7qtawgrm&cover_image=true&the_
