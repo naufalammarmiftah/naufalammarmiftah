@@ -55,6 +55,15 @@
   <img src="https://raw.githubusercontent.com/naufalammarmiftah/naufalammarmiftah/output/github-contribution-grid-snake.svg" alt="snake game animation" />
 </p>
 
+### 🐍 Play My Snake Game
+
+<p align="center">
+  <a href="https://naufalammarmiftah.github.io/games/snake.html" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Now%20-%20SNAKE%20GAME-green?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
 ---
 
 ### 🕹️ Play My Pac-Man Game
