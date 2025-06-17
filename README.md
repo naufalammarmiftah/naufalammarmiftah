@@ -57,13 +57,13 @@
 
 ---
 
-## 🎧 Spotify — Now Playing
+### 🕹️ Play My Pac-Man Game
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=naufaal.a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+  <a href="https://naufalammarmiftah.github.io/games/pacman.html" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Now%20-%20PACMAN-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
-
-> 🎵 Replace `naufaal.a` with your actual Spotify ID from your profile URL.
 
 ---
 
