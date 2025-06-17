@@ -1,70 +1,34 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naufalammarmiftah/naufalammiftah/main/banner.png" width="100%" alt="Welcome Banner">
-</p>
+```markdown
+# 👨‍💻 Naufal Ammar Miftah
 
-<h1 align="center">Hi there, I'm Naufal Ammar! 👋</h1>
+![Banner](./assets/banner.png)
 
-<p align="center">
-  🚀 Senior Network Engineer | 🧠 Data Center Fabric & SDN Specialist<br>
-  Passionate about scalable automation and cloud-native networking!
-</p>
+Welcome to my world! I'm **Naufal Ammar Miftah**, a passionate engineer navigating the intricate layers of:
 
----
+🚀 **Network Engineering**  
+🏢 **Data Center Fabric** (Senior Level)  
+🛠️ **System Tools Engineering**
 
-### ⚙️ About Me
-- 🔧 Network Engineer - Data Center Fabric (SDN)
-- 🌐 Automation, Monitoring, and Edge Infrastructure
-- 🎯 Obsessed with innovation, reliability, and elegant design
+I spend my days architecting resilient systems, optimizing data flows, and building automation tools — but I also love gaming and tech experimentation on the side.
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,typescript,php,sql,blade,docker,linux,terraform,ansible,grafana,prometheus,git" />
-</p>
+## 🎮 Bonus: Play a Mini Game!
+I believe every engineer deserves a little play — head over to the [game folder](./game/index.html) and launch a fun retro browser game I’ve included for you!
+
+## 📌 Skills & Tech
+- Software-Defined Networking (SDN)
+- Data Center Topologies & Infrastructure
+- Automation (Python, Bash, Ansible)
+- Monitoring & Observability Tools
+- Systems Reliability & Ops
+- Linux | Networking | API
 
 ---
 
-### 📊 GitHub Stats & Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naufalammarmiftah&show_icons=true&theme=dark&hide_title=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalammarmiftah&theme=dark" height="160"/>
-</p>
+## 💼 Let’s Connect
+- GitHub: [github.com/naufalammarmiftah](https://github.com/naufalammarmiftah)
+- LinkedIn: *(add your link)*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naufalammarmiftah&theme=react-dark" />
-</p>
-
----
-
-### 🐍 GitHub Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naufalammarmiftah/naufalammiftah/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
----
-
-### 🔖 Holopin Board
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naufalammarmiftah/naufalammiftah/main/holopin.png" width="300" alt="Holopin Badge Board"/>
-</p>
-
----
-
-### 🎵 Spotify — Last Played
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id_here&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
----
-
-### 📬 Reach Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/naufalammiftah"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:ammarmiftahah@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
-</p>
-
-<p align="center"><i>Built with ❤️ by Naufal Ammar</i></p>
+Thanks for visiting! Give the game a try! 🎮
+```
