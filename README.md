@@ -47,13 +47,11 @@
 
 ---
 
-## 🐍 GitHub Snake Game
-
-> Watch your contribution grid evolve into a snake 🐍
-
+### 🐍 Snake Game Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/naufalammarmiftah/naufalammarmiftah/output/github-contribution-grid-snake.svg" alt="snake game animation" />
 </p>
+
 
 ---
 
