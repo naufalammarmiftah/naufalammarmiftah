@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/naufalammarmiftah/naufalammarmiftah/main/banner.png" width="100%" alt="banner">
 </p>
 
-<h1 align="center">Hi there, I'm Naufal Ammar! 👋</h1>
+<h1 align="center">Hi there, I'm Naufal Ammar Miftah! 👋</h1>
 
 <p align="center">
   🚀 Senior Network Engineer | 💡 SDN & Data Center Fabric Enthusiast <br>
@@ -37,9 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=naufalammarmiftah&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalammarmiftah&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naufalammarmiftah&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naufalammarmiftah&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
