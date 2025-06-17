@@ -60,10 +60,10 @@
 ## 🎧 Spotify — Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id_here&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=naufaal.a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
 </p>
 
-> 🎵 Replace `your_spotify_id_here` with your actual Spotify ID from your profile URL.
+> 🎵 Replace `naufaal.a` with your actual Spotify ID from your profile URL.
 
 ---
 
@@ -89,5 +89,5 @@
 ---
 
 <p align="center">
-  <i>Built with 🧠, 🧰, and ❤️ by <b>Naufal Ammar</b><br/>Thanks for stopping by!</i>
+  <i>Built with 🧠, 🧰, and ❤️ by <b>Naufal Ammar MIftah</b><br/>Thanks for stopping by!</i>
 </p>
